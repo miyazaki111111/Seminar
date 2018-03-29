@@ -1,3 +1,1 @@
-﻿  opticalflow.cpp
-c:\users\miyazaki\myworkspace\program\20180320_seminar\seminar\seminar\opticalflow.cpp(50): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
-  Seminar.vcxproj -> C:\Users\miyazaki\myworkspace\program\20180320_seminar\Seminar\x64\Debug\Seminar.exe
+﻿  Seminar.vcxproj -> C:\Users\miyazaki\myworkspace\program\20180320_seminar\Seminar\x64\Debug\Seminar.exe
